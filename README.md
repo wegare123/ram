@@ -1,0 +1,2 @@
+# ram
+Check detail ram
